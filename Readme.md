@@ -1,4 +1,4 @@
-![Banner](static/npm.png)
+![Banner](/npm.png)
 
 ## What is it?
 Here is a list of 26 alphabetically ordered npm packages which are hidden in dark. And can be used by you to make your life easier. I'm gonna stay away from biggies like Express, Mongoose, React, Vue etc. Just going to give the limelight to the batmans (the one we need but we don't deserve) of npm packages.
